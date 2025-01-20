@@ -1,6 +1,6 @@
 | Notebook                                    | Colab                                                                                                   |
 |:--------------------------------------------|:-------------------------------------------------------------------------------------------------------|
-| Data Download and Load                      | <a target="_blank" href="https://colab.research.google.com/github/TalentCLEF/talentclef_tutorials/blob/main/talentclef2025/TalentCLEF_data_tutorial.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>   |
+| Data Download and Load                      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/nlp-with-transformers/notebooks/blob/main/11_future-directions.ipynb](https://colab.research.google.com/github/TalentCLEF/talentclef_tutorials/blob/main/talentclef2025/TalentCLEF_data_tutorial.ipynb))    |     
+
+
 
